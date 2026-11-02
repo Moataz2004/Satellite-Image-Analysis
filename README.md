@@ -122,7 +122,8 @@ g)
 
 ### Training Performance
 
-[![Training and Validation Curves](images/training_curves.png)](https://chatgpt.com/share/6ae88d72-8318-83e9-ab6c-7b5c714d444f)
+<img width="685" height="653" alt="image" src="https://github.com/user-attachments/assets/5fe90554-1b62-41f7-b2fa-47ecf07beca8" />
+
 
 ### Confusion Matrix
 
